@@ -24,7 +24,7 @@ a.active {
     outline: 0;
     color: #{{ site.color.primary }};
 }
-a.discord{
+.discord{
     outline:0;
     color: #{{site.color.secondary-dark}};
 }
