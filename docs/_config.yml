@@ -33,7 +33,7 @@ color:
 # Footer settings
 footer:
   copyright: Arman Irani
-  location: 
+  location: Hello
   social: Follow Us
   credits: Credits
 
@@ -51,9 +51,9 @@ social:
     url: http://github.com/jekyll
 
 # Postal address (add as many lines as necessary)
-address:
-  - line: 
-  - line:
+address: Here
+  - line: We
+  - line: Are
 
 # Credits content
 credits: 'This Festival was created to commemerate Faredoon Dehmeri's vision for Zoroastrian Unity'
