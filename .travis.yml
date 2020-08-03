@@ -5,3 +5,6 @@ script:
   - bundle exec rake test
   - bundle exec jekyll build
 cache: bundler
+
+- name: Deploy to GitHub Pages
+  uses: JamesIves/github-pages-deploy-action@3.5.9
